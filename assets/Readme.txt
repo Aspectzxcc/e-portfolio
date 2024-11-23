@@ -1,5 +1,4 @@
-# e-portfolio
-my e portfolio for SAS3000
+Thanks for downloading this template!
 
 Template Name: DevFolio
 Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
